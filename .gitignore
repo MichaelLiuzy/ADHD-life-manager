@@ -1,0 +1,24 @@
+# Personal data, created once you start using the assistant.
+# Leading slashes keep these rules to the top level, so the blank
+# templates in .agents/templates/ are still tracked.
+/tasks.md
+/goals.md
+/goals-archive.md
+/ideas.md
+/experiences.md
+/habits.md
+/state.md
+/agent-setup.md
+/journal/
+/learning/
+/projects/
+
+# Files an agent may create for itself during INSTALL.md
+/CLAUDE.md
+/GEMINI.md
+/.claude/
+/.gemini/
+
+# OS clutter
+.DS_Store
+Thumbs.db
